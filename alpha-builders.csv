@@ -1,0 +1,18 @@
+item_no,description,trade,unit,quantity,rate
+A1,Site establishment and preliminaries,Preliminaries,lot,1,8500
+B1,Excavation in all materials,Earthworks,m3,120,28
+B2,Backfilling with selected material,Earthworks,m3,60,18
+C1,Concrete Grade 30 in foundations and frame,Concrete,m3,85,215
+C2,Concrete blinding 50mm thick,Concrete,m3,12,165
+D1,Formwork to beams and columns,Formwork,m2,240,95
+D2,Formwork to slabs,Formwork,m2,310,82
+E1,High tensile reinforcement bars,Reinforcement,t,14,1850
+F1,Brick walls 100mm thick,Masonry,m2,420,68
+F2,Cement plaster to walls,Masonry,m2,840,22
+G1,Clay roof tiles on battens,Roofing,m2,190,145
+H1,Ceramic floor tiles,Finishes,m2,165,95
+H2,Emulsion paint to walls and ceilings,Finishes,m2,950,12
+I1,Plumbing points including pipework,Plumbing,nr,18,320
+I2,Sanitary ware supply and fix,Plumbing,nr,6,850
+J1,Electrical points including wiring,Electrical,nr,42,95
+J2,Main distribution board,Electrical,nr,1,2400
